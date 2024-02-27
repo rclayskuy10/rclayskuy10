@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Riski Pratama
+- 👀 I’m interested in Cyber security, AI, Machine Learning
+- 💞️ I’m looking to collaborate on Micro, Macro, Massive at Infinite Learning
+- 📫 How to reach me
+- Instagram @riskipratama.10
+- ⚡ Fun fact: I like traveling
