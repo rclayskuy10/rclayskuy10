@@ -1,8 +1,3 @@
-# Text Sentiment Analysis using Caikit and Hugging Face
-# Author : Cognitive Class AI
-# Mentee Info
-# Program : IBM Advance AI
-
 <h1 align="center">Hi 👋, I'm Riski Pratama</h1>
 <h3 align="center">Computer Science, Cyber security, AI, Machine Learning, Robotic</h3>
 
