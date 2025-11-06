@@ -1,56 +1,59 @@
-# 👋 Welcome to Rclay IT Consultant
+# 👋 Hi there, I'm Rclay
 
-## 🚀 Professional IT Solutions & Services
+## � Tech Stack & Skills
 
-We are a dedicated team of IT professionals providing comprehensive solutions and services in software development, AI/ML implementation, and academic IT support.
-
-### 🛠️ Our Core Services
-
-#### 💻 Software Development
-- Full-stack web development
-- Custom application development
-- E-commerce solutions
-- System integration
-- API development
-- Mobile-friendly applications
-
-#### 🤖 AI & Machine Learning
-- Advanced analytics & clustering
-- Natural Language Processing
-- Recommendation engines
-- Computer vision solutions
-- Predictive analytics
-- AI implementation consulting
-
-#### 📚 Academic IT Support
-- Programming assignments
-- Machine learning projects
-- Web development projects
-- Technical documentation
-- IT project consultation
-- Research implementation
-
-### 🌟 Why Choose Us?
-- ✓ Professional and timely delivery
-- ✓ Quality and confidentiality guaranteed
-- ✓ Experienced expert team
-- ✓ Comprehensive solutions
-- ✓ Dedicated support
-
-### 🔧 Technical Expertise
+### Frontend Development
 ```text
-Languages & Frameworks:
-- Frontend: React.js, Vue.js, Next.js
-- Backend: Node.js, Python, PHP
-- Database: MySQL, PostgreSQL, MongoDB
-- AI/ML: TensorFlow, PyTorch, scikit-learn
+✨ Core Technologies:
+- HTML5, CSS3, JavaScript
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
 ```
 
-### 📫 Contact Us
-For inquiries and consultations:
-- 💬 WhatsApp: [Contact our sales team](https://wa.me/6281368219082)
-- 📧 Email: [coming soon]
-- 🌐 Website: [coming soon]
+### Backend Development
+```text
+🛠️ Technologies:
+- Node.js
+- Express.js
+- RESTful APIs
+- Database Design
+```
+
+### AI & Machine Learning
+```text
+🤖 Technologies & Libraries:
+- Python
+- TensorFlow
+- Machine Learning Algorithms
+- Natural Language Processing
+```
+
+### Tools & Environment
+```text
+🔧 Development Tools:
+- Git & GitHub
+- VS Code
+- npm/yarn
+- Postman
+```
+
+### Database
+```text
+📊 Database Systems:
+- MongoDB
+- MySQL
+- PostgreSQL
+```
+
+### Currently Learning
+- Advanced React Patterns
+- AI/ML Implementation
+- System Architecture Design
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rclayskuy10&show_icons=true&theme=dark)
 
 ---
-⚡ Let's transform your ideas into reality with professional IT solutions! ⚡
+💡 Always learning, always growing!
