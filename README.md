@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Rclay
+# 👋 Hi there, I'm Riski Pratama
 
-## � Tech Stack & Skills
+## Tech Stack & Skills
 
 ### Frontend Development
 ```text
