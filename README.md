@@ -93,11 +93,10 @@ const riskiPratama = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rclayskuy10&layout=compact&hide_border=true&title_color=36BCF7&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=rclayskuy10&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rclayskuy10&theme=react-dark&hide_border=true&area=true" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rclayskuy10&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph" width="98%"/>
 </div>
 
 ---
@@ -146,7 +145,9 @@ JSON         1 hr 6 mins     █░░░░░░░░░░░░░░░░
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rclayskuy10&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=rclayskuy10&theme=algolia&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
@@ -159,20 +160,6 @@ JSON         1 hr 6 mins     █░░░░░░░░░░░░░░░░
 
 </div>
 
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-💼 Open for collaboration on interesting projects!  
-📧 Reach me at: **[Your Email Here]**  
-🌐 Portfolio: **github.com/rclayskuy10**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 ---
 
