@@ -152,16 +152,6 @@ JSON         1 hr 6 mins     █░░░░░░░░░░░░░░░░
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
 
 <img src="https://komarev.com/ghpvc/?username=rclayskuy10&color=36BCF7&style=for-the-badge" alt="Profile views" />
 
